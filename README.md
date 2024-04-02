@@ -1,7 +1,8 @@
-### Name:gajalakshmi 
+
+### Name:gajalakshmi
 ### register no:212223040047
 
-#  Mean and variance of a discrete  distribution
+# EXP 01 Mean and variance of a discrete  distribution
                                                    
 # Aim : 
 
