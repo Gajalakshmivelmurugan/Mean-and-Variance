@@ -1,5 +1,6 @@
 #  Mean and variance of a discrete  distribution
-
+                                                   ### Name:gajalakshmi V
+                                                   ### register no:212223040047
 
 # Aim : 
 
